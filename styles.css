@@ -1,0 +1,30 @@
+body {
+    background-color: steelblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: white;
+}
+h1 {
+    color:skyblue;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+h4 {
+    color:skyblue;
+}
+ul {
+    list-style-type: circle;
+    color: white;
+}
+ol {
+    color: white;
+    list-style-type:lower-roman;
+}
+
+
